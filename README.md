@@ -1,4 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -32,11 +32,17 @@
 
 ## Input:
 
+![Screenshot 2023-12-31 153017](https://github.com/RANJANKUMAR007/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/152128740/417e468f-b30f-436a-8122-57eb9835bf3e)
+
+
 ### Output:
 
+![Screenshot 2023-12-31 153035](https://github.com/RANJANKUMAR007/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/152128740/f90d01d6-f077-42b8-bc84-a944b28e7b94)
 
-### Name:
-### Register Number:
+
+
+### Name: NAINA MOHAMED Z
+### Register Number: 212223230131
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
